@@ -1,3 +1,5 @@
+[![WildDrone logo](WildDrone_Detailed_logo.png)](https://wilddrone.eu)
+
 # WildDrone Publications
 Index of WildDrone publications including datasets.
 
