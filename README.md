@@ -18,6 +18,16 @@
 | ------------- | ------------- | ------------- |
 |               |               |               |
 
+# Press and popular science
+
+| Title and link                                                                                                  | Publication  | Date        |
+| --------------------------------------------------------------------------------------------------------------- | ------------ | ----------- |
+| [Large-Scale Research Network Receives 3.7 Million Euros to Revolutionize Wildlife Conservation Practices with Drones](https://www.sdu.dk/en/forskning/sduuascenter/newslist/28-millioner-til-stor-forskningssatsning) | SDU UAS Center | 24 Mar 2023 |
+| [Kan droner hjælpe truede dyrearter?](https://videnskab.dk/naturvidenskab/kan-droner-hjaelpe-truede-dyrearter/) | Videnskab DK | 31 Aug 2023 |
+
+
+
+
 
 ---
 
